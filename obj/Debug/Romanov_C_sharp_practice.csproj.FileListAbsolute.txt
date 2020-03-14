@@ -1,0 +1,7 @@
+C:\Users\Даня\source\repos\Romanov_C_sharp_practice\bin\Debug\Romanov_C_sharp_practice.exe.config
+C:\Users\Даня\source\repos\Romanov_C_sharp_practice\bin\Debug\Romanov_C_sharp_practice.exe
+C:\Users\Даня\source\repos\Romanov_C_sharp_practice\bin\Debug\Romanov_C_sharp_practice.pdb
+C:\Users\Даня\source\repos\Romanov_C_sharp_practice\obj\Debug\Romanov_C_sharp_practice.csprojAssemblyReference.cache
+C:\Users\Даня\source\repos\Romanov_C_sharp_practice\obj\Debug\Romanov_C_sharp_practice.csproj.CoreCompileInputs.cache
+C:\Users\Даня\source\repos\Romanov_C_sharp_practice\obj\Debug\Romanov_C_sharp_practice.exe
+C:\Users\Даня\source\repos\Romanov_C_sharp_practice\obj\Debug\Romanov_C_sharp_practice.pdb
